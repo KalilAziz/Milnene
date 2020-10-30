@@ -1,0 +1,554 @@
+body{
+	 background-color: #f3f3f3;	
+}
+
+
+/*************************************************************** inicio do Header - 1  *********************************************************************/
+.header-1 {
+	border-bottom: 1px solid #DCDCDC
+}
+
+.contato{
+	margin: 0 auto;
+	width: 1143px;
+	height: 40px;
+}
+
+.img-tel{
+	height: 19px; position: absolute; margin-top: 10px;
+}
+
+.img-whats{
+	height:20px;
+	padding-bottom: 3px
+}
+
+.img-face-a{
+	padding: 5px;
+	float: right;
+	border: 1px solid #988B8B;
+  	border-radius: 5px;
+	background-image: url("image/face.png");
+}
+
+.img-face{
+	height: 22px;
+}
+
+.contato span{
+	margin-left: 38px;
+	margin-top: 5px;
+	position: absolute;
+}
+/**************************************************************** fim do Header - 1 ************************************************************************/
+
+
+
+
+/************************************************************** inicio do Header - 2 ************************************************************************/
+.header-2 {
+	width: 1143px;
+	height: 180px;
+	margin: 0 auto;
+}
+
+.img-logo{
+	height:390px;
+	position: relative;
+	top: -100px;
+	right: 280px
+}
+
+.header-2 ul{
+	position: absolute;
+	list-style-type: none;
+	right:380px;
+	top: 80px;
+}
+
+.header-2 ul li a{
+	color: #55585d;
+	text-decoration: none;
+}
+
+.header-2 ul li a:hover{
+	color: red;
+}
+
+.header-2 li{
+	display:block;
+	float: left;
+	margin-left: 25px;
+}
+
+
+/**************************************************************** fim do Header - 2 ************************************************************************/
+
+
+
+
+/***************************************************************** inicio do corpo - 1 *********************************************************************/
+
+.corpo-1{
+	width: 1143px;
+	margin: 0 auto;
+}
+
+.part1{
+	height: 1050px;
+}
+
+.part1 h1{
+	font-size: 2.5em;padding:30px 0px 30px 432px; color: #55585d
+}
+
+.img-linha{
+	width:  1125px; margin-bottom: 30px
+}
+
+.area-de-atuacao{
+	border: 1px solid red;
+	width: 120px;
+	height: 120px;
+	border-radius:70px;
+	background-image: url(../image/qwer.png);
+	background-color:#9e9e9e;
+	background-size: cover;
+	margin-left: 48px;
+	position: absolute;
+
+
+
+}
+
+.ocup1, .ocup6{
+	width: 202px;
+	height: 400px;
+	margin-left: 9px; 
+	float: left;
+	border: 1px solid red;
+}
+
+.ocup2, .ocup3, .ocup4, .ocup5, .ocup7, .ocup8, .ocup9, .ocup10{
+	width:202px;
+	height: 400px;
+	margin: 0px 0px 0 28px;
+	float: left;
+	border: 1px solid red;
+}
+
+
+.ocup6, .ocup7, .ocup8, .ocup9, .ocup10{
+	margin-top:50px; 
+	border: 1px solid red;
+}
+
+.ocup1 span{
+	text-align: center; padding: 130px 0px 0px 70px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+
+.ocup2 span{
+	text-align: center; padding: 130px 0px 0px 73px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+
+.ocup3 span{
+	text-align: center; padding: 130px 0px 0px 77px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+
+
+.ocup4 span{
+	text-align: center; padding: 130px 0px 0px 41px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+
+
+.ocup5 span{
+	text-align: center; padding: 130px 0px 0px 54px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+
+
+.ocup6 span{
+	text-align: center; padding: 130px 0px 0px 55px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+
+
+.ocup7 span{
+	text-align: center; padding: 130px 0px 0px 40px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+
+
+.ocup8 span{
+	text-align: center; padding: 130px 0px 0px 53px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+
+
+.ocup9 span{
+	text-align: center; padding: 130px 0px 0px 72px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+
+
+.ocup10 span{
+	text-align: center; padding: 130px 0px 0px 87px; position: absolute;font-size: 1.3em; color: #55585d;
+}
+
+.atuacao p {
+	text-align: center; padding-top: 175px; font-size: 0.9em  color: #55585d; 
+}
+
+.atuacao a {
+	padding: 15px 20px; margin:0px 0px 0px 42px; position: absolute;border: 1px solid gray;
+}
+
+/****************************************************************** Fim do corpo - 1 *********************************************************************/
+ 
+
+
+/***************************************************************** inicio do corpo - 2 *********************************************************************/
+
+.corpo-2{
+	height: 650px;
+	background-color:#9e9e9e;
+	position: relative;
+
+}
+
+.part2{
+		margin: 0 auto;
+		height: 650px;
+		width: 1143px;
+	
+}
+
+.part2 h1{
+	font-size: 2.5em;padding:30px 0px 30px 370px; color: white
+}
+.espacamento{
+	margin-top: 10px
+}
+
+.noti-1{
+	width: 263px;
+	height: 490px;
+	margin-left: 3px; 
+	float: left;
+	margin-top: 30px;
+}
+
+.noti-2{
+	width: 263px;
+	height: 490px;
+	margin: 0px 0px 0 25px;
+	float: left;
+	margin-top: 30px;
+}
+
+.noti-3{
+	width: 263px;
+	height: 490px;
+	margin: 0px 25px 0 25px;
+	float: left;
+	margin-top: 30px;
+}
+
+.noti-4{
+	width: 263px;
+	height: 490px;
+	float: left;
+	margin-top: 30px;
+
+}
+
+.noti-1 .calend, .noti-2 .calend, .noti-3 .calend, .noti-4 .calend {
+	height: 22px;
+	margin-bottom: 6px;
+}
+
+.imagem{
+	width: 100%;
+	height: 160px;
+}
+.noti-1 span, .noti-2 span, .noti-3 span, .noti-4 span {
+	font-size: 0.8em;
+	margin-top: -3px;
+}
+.img-cvs{
+	height: 22px;
+}
+			
+
+
+
+
+/****************************************************************** Fim do corpo - 2 *********************************************************************/
+
+
+
+
+ 
+
+
+/***************************************************************** inicio do corpo - 3 *********************************************************************/
+.corpo-3 {
+	width: 1143px;
+	margin: 0 auto;
+
+}
+
+.part3{
+	margin: 0 auto;
+	height: 735px;
+	margin: 0 auto;
+
+}
+
+.part3 h1{
+	font-size: 2.5em;padding:30px 0px 30px 450px; color: #55585d
+}
+.posicao{
+	width: 440px;height: 20px; float: left;
+}
+
+#card{
+	width: 220px; position: relative; float: left
+}
+
+
+
+/****************************************************************** Fim do corpo - 3 ************************************************************************/
+
+
+
+
+/***************************************************************** inicio do rodapé *********************************************************************/
+
+
+
+footer{
+
+	width:  100%;
+	height: 400px;
+	margin: 0 auto;
+}
+
+.footer-1{
+	border: 1px solid; height: 500px; background-color: #182687 
+}
+
+.footer-2{
+	width: 1143px;
+	margin: 0 auto;
+
+}
+
+
+
+
+
+
+/***************************************************************** inicio do Lista *********************************************************************/
+
+
+.footer-2 li{
+	display:block;
+	float: left;
+	margin-left: 25px;
+}
+
+.footer-2 ul{
+	margin: 35px 0 0 550px;
+	list-style-type: none;
+	font-size: 0.9em
+
+}
+
+.footer-form{
+	width: 1143px;
+	margin: 0 auto;
+
+}
+
+.footer-form a{
+	text-decoration: none
+
+}
+
+ul a{
+ 	color: white;
+ }
+
+ul a:hover{
+	color: red;
+}
+
+
+
+/***************************************************************** fim do Lista *********************************************************************/
+
+
+
+
+
+/***************************************************************** inicio do Quem Somos *********************************************************************/
+
+.footer-quem-somos{
+		height: 400px;
+		float: right;
+}
+
+.quem-somos{
+	margin: 0 auto;
+	float: left; width: 420px;left: 292px; height: 395px; color: white; margin-top: 35px
+}
+
+.quem-somos span{
+	text-align: center; font-size: 0.9em ; color: white;
+}
+
+.quem-somos a{
+	padding: 15px 20px; border: 1px solid grey; margin:60px 0px 0px -290px; position: absolute;
+
+}
+
+
+
+
+/***************************************************************** fim do Quem Somos *********************************************************************/
+
+
+
+/***************************************************************** inicio da localização *********************************************************************/
+
+.footer-localizazao{
+	float: left; width: 310px; height: 395px;
+}
+
+.footer-localizazao h1{
+		font-size: 1.6em;color: white; margin-top: 35px
+
+}
+
+.footer-localizazao span{
+		text-align: center; font-size: 0.9em ; color: white;
+
+}
+
+.num{
+	margin-left: 25px
+}
+
+.footer-localizazao img{
+	height:20px;
+	padding-bottom: 3px
+
+}
+
+
+
+/***************************************************************** fim da localização *********************************************************************/
+
+
+
+/***************************************************************** inicio do Fale conosco *********************************************************************/
+
+
+.fale-conosco{
+	float: left;  width: 411px; height: 460px;
+}
+
+.fale-conosco-posicao{
+	float: left; width: 411px; height: 460px;
+}
+
+.fale-conosco-posicao h1{
+	font-size: 1.6em;color: white; margin-top: 35px
+}
+
+.fale-conosco-posicao form{
+	color: white
+}
+
+.imput-nome{
+	margin-left: 30px
+}
+
+.imput-endereco{
+	margin-left: 8px
+}
+.imput-estado{
+	margin-left: 82px
+}
+.imput-cidade{
+	margin: 4px 0 4px 82px;
+	width: 172px
+}
+.imput-num{
+	margin-left: -3px
+}
+.imput-email{
+	margin-left: 30px
+}
+.imput-data{
+	margin-left: 40px
+}
+.imput-submit{
+	width: 80px;
+	padding: 2px 0 5px 0;
+	margin: 5px 0 0 130px
+}
+
+
+/***************************************************************** fim do Fale conosco *********************************************************************/
+
+
+.rodape{
+	height: 50px;background-color: #55585d
+}
+
+
+.rodape-2{
+	width: 300px; height: 10px
+}
+
+.rodape-2 p {
+	position: relative; bottom: -15px; left: 390px; font-size: 0.7em; color: white
+}
+
+
+
+
+
+
+
+/***************************************************************** fim do rodapé*********************************************************************/
+
+
+
+
+
+.contato a:hover{
+	color: white;
+	background: #414d59;
+	transition: 1s;
+	text-decoration: none;
+
+}
+.atuacao a:hover{
+	color: white;
+	background: #414d59;
+	transition: 1s;
+	text-decoration: none9
+}
+
+
+.moo div:hover{
+	background-color: #62B9E4
+}
+
